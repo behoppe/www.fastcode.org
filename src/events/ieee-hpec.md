@@ -25,12 +25,11 @@ How are AI coding assistants impacting software performance? What does that mean
 
 ## Featured speakers
 
-We expect 10-15 minutes per speaker. 
 
-* Jatin Ganhotra (IBM): [Jatin's page](./ganhotra).
-* Justin "Goju" Gottschlich (Merly): [Justin's page](./gottschlich/)
-* Tim Kraska (MIT): [Tim's page](./kraska/)
-* TBD: [TBD's page](./tbd/)
+* Jatin Ganhotra (IBM)
+* Justin "Goju" Gottschlich (Merly)
+* Tim Kraska (MIT)
+
 
 
 
