@@ -1,6 +1,6 @@
 ---
 sidebar: toc
-title: Gen AI and SPE
+title: The End of System Engineering As We Know It
 author: Tim Kraska (MIT)
 tagline: Monday, Nov 9, 2026 11AM ET
 zoomreg: https://mit.zoom.us/meeting/register/FJ1NOU55Sn675_0ElBwIMQ
@@ -14,7 +14,13 @@ tags:
   seminar
 ---
 
-Join us 11am ET Monday, Nov 9, when Tim Kraska speaks about Gen AI and software performance engineering (SPE). Details TBA.
+## Abstract
+
+Generative AI is fundamentally changing how we develop software systems. As AI becomes capable of writing most, if not all, of the code, it raises a fundamental question: How should we engineer complex software systems when humans are no longer the primary authors of code?
+
+Two years ago, we started the G5 project at MIT to explore this question and rethink software engineering from the ground up. Our work has led to three key pillars. First, **software engineering is becoming knowledge engineering**, shifting the focus from writing code to capturing system intent and semantics. Second, **ALIGN introduces a new AI-centric software development lifecycle** designed for AI-driven coding. Third, **formal verification at scale** ensures that generated software faithfully implements its intended behavior.
+
+In this talk, I will present these three pillars and show how we have already used them to replicate a large commercial CRM system and uncover significant bugs in existing software, including PostgreSQL. These results point toward a future where engineering complex systems is less about writing code and more about specifying and verifying intent.
 
 ## Bio
 
